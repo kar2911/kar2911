@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/github/stars/kar2911?style=plastic&color=45B7D1&labelColor=1a1a1a&label=STARS" alt="Stars" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/STATUS-HIRING-96CEB4?style=plastic&labelColor=1a1a1a" alt="Status" />
+        <img src="https://img.shields.io/badge/STATUS-Open To Work-96CEB4?style=plastic&labelColor=1a1a1a" alt="Status" />
       </td>
     </tr>
   </table>
