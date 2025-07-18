@@ -269,7 +269,7 @@ availability: "Open for Opportunities"
     <tr>
       <td align="center" width="25%">
         <img src="https://img.shields.io/badge/🎯-IMMEDIATE-FF6B6B?style=for-the-badge" alt="Immediate" /><br>
-        <strong>Software Development Internship</strong><br>
+        <strong>Software Development Roles</strong><br>
         <em>Seeking role at innovative tech company</em>
       </td>
       <td align="center" width="25%">
