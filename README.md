@@ -1,6 +1,6 @@
 <!-- Header with animated background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=150&section=header&text=KARTHIK%20JANGAM&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=%20Full%20Stack%20Developer%20%7C%20AI%20Specialist&descAlignY=75&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=150&section=header&text=KARTHIK%20JANGAM&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=75&descSize=18" />
 </div>
 
 <!-- Professional Status Bar -->
